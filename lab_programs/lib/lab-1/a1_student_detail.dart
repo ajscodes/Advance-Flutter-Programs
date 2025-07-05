@@ -3,4 +3,6 @@ class Student{
   late int age;
   late String email;
 
+  Student();
+
 }
